@@ -38,7 +38,8 @@ Number of Attributes: 16
 | 10 | 0.92 | Poly | 0.34 | 5.50 |
 
 ## Convergence Graph
-![graph](![image](https://github.com/Kushagrekaushik/Parameter_Optimization_SVM/assets/100528019/2c2c2326-18fb-4e90-8473-e3d1be052d65)
+![graph](![image](https://github.com/Kushagrekaushik/Parameter_Optimization_SVM/assets/100528019/5933e71a-621d-4a46-b43b-d61ff1f083cb)
+)
 )
 
 ## Discussion
